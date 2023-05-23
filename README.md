@@ -18,5 +18,6 @@ At 2.00369 seconds into the simulation), the PacketSink application on node 1 re
 Output on Terminal : 
 
 At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+
 At time +2.00369s packet sink received 1024 bytes from 10.1.1.1 port 49153 total Rx 1024 bytes
 
