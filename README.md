@@ -13,7 +13,7 @@ Results :
 
 At 2 seconds into the simulation, the UdpEchoClient on node 0 sent a 1024-byte packet to node 1, as confirmed by the log message and the pcap file for node 0.
 
-At 2.00369 seconds into the simulation), the PacketSink application on node 1 received the 1024-byte packet from node 0, as confirmed by the log message and the pcap file for node 1. The delay is due to the 2ms delay configured for the point-to-point link.
+At 2.00369 seconds into the simulation, Node 1 receives the 1024-byte packet from node 0, as confirmed by the log message and the pcap file for node 1. The delay is due to the 2ms delay configured for the point-to-point link.
 
 Output on Terminal : 
 
